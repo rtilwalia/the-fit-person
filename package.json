@@ -1,0 +1,29 @@
+{
+  "name": "the-fit-person",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtilwalia/the-fit-person.git"
+  },
+  "author": "ritesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtilwalia/the-fit-person/issues"
+  },
+  "homepage": "https://github.com/rtilwalia/the-fit-person#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "popper": "^1.0.1"
+  }
+}
